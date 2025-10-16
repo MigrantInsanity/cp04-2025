@@ -1,11 +1,12 @@
 /**/
-    #body{
+    body{
     background-color: skyblue;
     }
 
-    #button{
+    button{
         color: blue;
         font-family: Times;
+        border-radius: 20px;
     }
 
     #minuteStr {
